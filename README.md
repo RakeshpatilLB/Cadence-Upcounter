@@ -1,4 +1,4 @@
-# Cadence-Upcounter
+# Upcounter-Cadence Virtuoso
 Schematic and simulation of 4-bit Asynchronous Upcounter.
 
 The upcounter is built using four D-flipflops(Master-slave configuration) .
